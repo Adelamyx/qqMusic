@@ -70,11 +70,11 @@ rules:
             style: lowercase
     # id 选择器命名强制格式 不允许下划线 _ 开头; 只能小写, 只能用连识符 - 连接
     id-name-format: 0
-    # 缩进 4 spaces / 1 tab
+    # 缩进 2 spaces / 1 tab
     indentation:
         - 1
         -
-            size: 4
+            size: 2
     # 浮点数 小数点前不加 0
     leading-zero: 0
     # 文件行数 禁用
