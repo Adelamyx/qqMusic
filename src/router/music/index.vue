@@ -38,7 +38,7 @@ import api from '../../api/index'
 export default {
   data () {
     return {
-      searchkey: '梁静茹1', // 搜索关键词字段
+      searchkey: '梁静茹', // 搜索关键词字段
       page: 1, // 当前页面 默认一进页面是第一页
       songList: [], // 接口获取的歌曲列表
       nowSong: {
