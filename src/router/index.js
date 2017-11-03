@@ -9,7 +9,7 @@ export default new Router({
   base: '/qqmusic/dist/',
   routes: [
     {
-      path: '/music',
+      path: '/',
       name: 'music',
       component: music
     }
